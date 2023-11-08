@@ -12,9 +12,8 @@ Permutations calculator will help determine the number of ways to obtain an orde
 3. Activate the [Permutation Calculator](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_permutation_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Permutation Calculator to the sidebar through the `Appearance -> Widgets -> Permutation Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
+* Add the shortcode `[ci_permutation_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/

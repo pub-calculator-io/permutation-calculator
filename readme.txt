@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Permutation Calculator](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_permutation_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Permutation Calculator to the sidebar through the `Appearance -> Widgets -> Permutation Calculator` menu in WordPress.
+* Add the shortcode `[ci_permutation_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
 
 == Screenshots ==
