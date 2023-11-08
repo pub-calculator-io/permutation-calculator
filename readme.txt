@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ Permutations calculator will help determine the number of ways to obtain an orde
 == Description ==
 
 Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
+
+__Shortcode__
+
+Use the Permutation Calculator shortcode:
+
+`[ci_permutation_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_permutation_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Permutation Calculator](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Permutation Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_permutation_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Permutation Calculator to the sidebar through the `Appearance -> Widgets -> Permutation Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
 
 == Screenshots ==
 1. The Permutation Calculator Input Form.
