@@ -13,6 +13,8 @@ Permutations calculator will help determine the number of ways to obtain an orde
 
 Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
 
+[Permutation Calculator Homepage](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage")
+
 __Shortcode__
 
 Use the Permutation Calculator shortcode:
