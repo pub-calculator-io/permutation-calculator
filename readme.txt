@@ -1,6 +1,6 @@
 === Permutation Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: permutation calculator, calculate permutations, permutation formula, permutation calculation, permutation combinations, permutation math, permutations and combinations, number of permutations, permutation equation, permutation and combination calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
