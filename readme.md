@@ -1,4 +1,4 @@
-# Permutation Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Permutation Calculator Widget for WordPress
 
 Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
 
