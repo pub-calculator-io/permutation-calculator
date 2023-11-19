@@ -1,4 +1,4 @@
-=== Permutation Calculator ===
+=== Permutation Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: permutation calculator, calculate permutations, permutation formula, permutation calculation, permutation combinations, permutation math, permutations and combinations, number of permutations, permutation equation, permutation and combination calculator
 Requires at least: 5.0

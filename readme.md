@@ -7,7 +7,7 @@ Permutations calculator will help determine the number of ways to obtain an orde
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/permutation-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /permutation-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Permutation Calculator](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
