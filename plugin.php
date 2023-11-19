@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Permutation Calculator by www.calculator.io
+Plugin Name: CI Permutation calculator
 Plugin URI: https://www.calculator.io/permutation-calculator/
 Description: Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
 Version: 1.0.0
