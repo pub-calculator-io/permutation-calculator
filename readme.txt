@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Permutation Cal
 == Screenshots ==
 
 1. The Permutation Calculator Input Form.
-2. The Permutation Calculator Calculation Results.
 
 == Installation ==
 

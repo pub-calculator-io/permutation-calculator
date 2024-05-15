@@ -3,7 +3,6 @@
 Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
 
 ![Permutation Calculator Input Form](/assets/images/screenshot-1.png "Permutation Calculator Input Form")
-![Permutation Calculator Calculation Results](/assets/images/screenshot-2.png "Permutation Calculator Calculation Results")
 
 ## Installation
 
