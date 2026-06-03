@@ -1,6 +1,6 @@
 # Permutation Calculator Widget for WordPress
 
-Permutations calculator will help determine the number of ways to obtain an ordered subset of r elements from a set of n elements.
+Quickly calculate permutations (nPr) with our free Permutation Calculator. Find the exact number of ways to arrange r items from a set of n elements.
 
 ![Permutation Calculator Input Form](/assets/images/screenshot-1.png "Permutation Calculator Input Form")
 
@@ -11,8 +11,8 @@ Permutations calculator will help determine the number of ways to obtain an orde
 3. Activate the [Permutation Calculator](https://www.calculator.io/permutation-calculator/ "Permutation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_permutation_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
+* Add the shortcode `[calcio_permutation_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_permutation_calculator(); ?>` to your template where you would like the Permutation Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
